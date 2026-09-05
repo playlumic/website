@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://playlumic.com/sitemap.xml
