@@ -1,0 +1,13 @@
+{
+  "name": "Lumic",
+  "short_name": "Lumic",
+  "description": "Wield the light.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#EFE9DE",
+  "theme_color": "#EFE9DE",
+  "icons": [
+    {"src":"/favicon-32x32.png","sizes":"32x32","type":"image/png"},
+    {"src":"/apple-touch-icon.png","sizes":"180x180","type":"image/png"}
+  ]
+}
